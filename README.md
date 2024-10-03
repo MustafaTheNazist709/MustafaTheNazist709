@@ -1,5 +1,5 @@
      Ben Mqstxfa
 
-     Python Developer Coder 
+     Python DEV
 
      The application is designed according to the request
